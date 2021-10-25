@@ -53,7 +53,7 @@
       },
       {
         "school": "University of Texas",
-        "degree": " Transferred to Florida",
+        "degree": "",
         "graduated": "",
         "description": ""
       },
@@ -64,9 +64,9 @@
         "description": "Computer Science Course Work: Java, C++, Assembly Langage, Intro to Programming Operating Systems...."
       },
       {
-        "school": "Sabio.LA",
-        "degree": "Sabio Fellow, Full Stack Web Developer",
-        "graduated": "2018-2019",
+        "school": "Sabio LA",
+        "degree": "Sabio Fellow, Full Stack Web Developement",
+        "graduated": " 2018-2019",
         "description": "Selected for State Certified Fellowship 5-month intensive Full Stack Web Development, fellows are prepared with both technical and C#, .NET, MS SQL Server, CI|CD"
       }
     ],
@@ -75,7 +75,7 @@
         "company": "CoreLogic",
         "title": "Web Devloper",
         "years": "October 2019 - Current",
-        "description": "Vanilla JS, jQuery, Bootstrap, CSS, HTML, PHP, SQL, aspx, C# JIRA, Basecamp, Eloqua, WordPress VIP CMS, CrownPeak CMS, Google Cloud Platform, Asana, Slack, Responsive Design Implementation, Enterprise Website Management, Vendor Management - Development, InfoSec, Agile Project Management, Scrum Meeting  Backend and Frontend Development"
+        "description": "Vanilla JS, jQuery, Bootstrap, CSS, HTML, PHP, SQL, ASPX, C# JIRA, Basecamp, Eloqua, WordPress VIP CMS, CrownPeak CMS, Google Cloud Platform, Asana, Slack, Responsive Design Implementation, Enterprise Website Management, Vendor Management - Development, InfoSec, Agile Project Management, Scrum Meeting  Backend and Frontend Development"
       },
       {
         "company": "WegnerWorks",

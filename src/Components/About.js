@@ -28,7 +28,7 @@ class About extends Component {
             <p>{bio}</p>
             <div className="row">
                <div className="columns contact-details">
-                  <h2>Contact Details  <a href="#contact" rel="nofollow" >Contact Details</a>   </h2>
+                  <h2> <a href="#contact" rel="nofollow" >Contact Details</a>   </h2>
                   {/* <p className="address">
 						   <span>{name}</span>
 						   <span>{street}<br />
