@@ -6,13 +6,13 @@
     "image": "profilepic.jpg",
     "bio": "I offer a unique work experience and acumen in digital technology from programming, cloud to networking IP. This background is driven with can-do attitude, part analytical and creative mind, and tenacious thirst for learning",
     "contactmessage": "Please contact me at ",
-    "email": "ticosemail@protonemail.com",
+    "email": "",
     "phone": "",
     "address": {
       "city": "Santa Ana",
       "state": "CA"
     },
-    "website": "Coming Soon ",
+    "website": "",
     "resumedownload": "https://www.linkedin.com/in/ticoislinked/",
     "social": [
       {
@@ -66,8 +66,8 @@
       {
         "school": "Sabio.LA",
         "degree": "Sabio Fellow, Full Stack Web Developer",
-        "graduated": "",
-        "description": " Selected for State Certified Fellowship 5-month intensive Full Stack Web Development, fellows are prepared with both technical and C#, .NET,MS SQL Server, CI|CD"
+        "graduated": "2018-2019",
+        "description": "Selected for State Certified Fellowship 5-month intensive Full Stack Web Development, fellows are prepared with both technical and C#, .NET, MS SQL Server, CI|CD"
       }
     ],
     "work": [
@@ -75,57 +75,51 @@
         "company": "CoreLogic",
         "title": "Web Devloper",
         "years": "October 2019 - Current",
-        "description": "Vanilla JS, jQuery, Bootstrap, CSS, HTML ,PHP, SQL, aspx, C# JIRA, Basecamp, Eloqua, WordPress VIP CMS, CrownPeak CMS, Google Cloud Platform ,Asana , Slack,   Responsive Design Implementation , Enterprise Website Management , Vendor Management - Development, InfoSec,  Agile Project Management ,Scrum Meeting  Backend and Frontend Development"
+        "description": "Vanilla JS, jQuery, Bootstrap, CSS, HTML, PHP, SQL, aspx, C# JIRA, Basecamp, Eloqua, WordPress VIP CMS, CrownPeak CMS, Google Cloud Platform, Asana, Slack, Responsive Design Implementation, Enterprise Website Management, Vendor Management - Development, InfoSec, Agile Project Management, Scrum Meeting  Backend and Frontend Development"
       },
       {
         "company": "WegnerWorks",
         "title": "Full Stack Developer",
-        "years": "January 2020 - March 2020",
+        "years": "01/2020 - 03/2020",
         "description": " Mobile MVP project — Wellness/ Fitness React NativeReact Azure Cloud Firebase  Github  https://github.com/TicoGitHubII/KaatsuRN5"
       },
       {
         "company": "USC Rossier School of Education",
         "title": "Web Application Engineer ",
-        "years": "March 2010 - Present",
-        "description": " CRM migration and integration utilizing Vanilla JS, jQuery, Wordpress, Bootstrap, CSS, and HTML; Refactoring Landing Pages, Forms, and EmailStatus: Contractor              - Use of A/B Testing Responsive Design Implementation Configured dynamic content elements to create emails at scale Ensured quality, consistency enforced across all assets, devices, email clients Developed and manage template library Utilized JavaScript and jQuery scripting,            - Developed and manage template library"
+        "years": "06/2019 - 08/2019",
+        "description": " CRM migration and integration utilizing Vanilla JS, jQuery, Wordpress, Bootstrap, CSS, and HTML; Refactoring Landing Pages, Forms, and EmailStatus: Contractor  | Use of A/B Testing Responsive Design Implementation Configured dynamic content elements to create emails at scale Ensured quality, consistency enforced across all assets, devices, email clients Developed and manage template library | Utilized JavaScript and jQuery scripting,| Developed and manage template library"
       },
       {
         "company": "Hack for LA ",
         "title": "Web Application Developer",
-        "years": "March 2019 - October 2019",
+        "years": "03/2019 - 10/2019",
         "description": "Volunteer for for the City of Santa Monica's City Council Meeting app construction — https://sm.engage.town/#/  | Completing various GitHub issue tickets Utilizing JavaScript and React, Redux via Visual Studio Code, Express"
       },
       {
         "company": "Good Dog",
         "title": "Good Dog",
-        "years": "December 2018 – March 2019",
-        "description": "Full-Stack web developer for \"Good Dog\" Full-Stack web developer for \"Good Dog\" (http:/www.gooddog.app/) building a minimal viable product (MVP) that tracks walking habits for Dog Lovers.\\nDeveloped Feature\\n • Profiles: Frontend and Backend  , modal, Database Design, Unit Testing, Email Integration SendGrid \\n•Technologies Included: VS Studio,.NET 2017, VS Code, SQL Server Management Studio, TFS, Chrome Developer Tools, Windows 10, Git Bash, Trello, Azure, Advance Rest Client, PostMan, Rest Client "
-      },
-      {
-        "company": "",
-        "title": "Independent Contractor",
-        "years": "",
-        "description": "Web Development and Project Management, PHP| LAMP | MySQL|HTML | WORDPRESS| JOOMLA"
+        "years": "12/2018 – 03/2019",
+        "description": "Full-Stack web developer for \"Good Dog\" Full-Stack web developer for \"Good Dog\" (http:/www.gooddog.app/) building a minimal viable product (MVP) that tracks walking habits for Dog Lovers. | Developed Features | Profiles: Frontend and Backend  , modal, Database Design, Unit Testing, Email Integration SendGrid | Technologies Included: VS Studio,.NET 2017, VS Code, SQL Server Management Studio, TFS, Chrome Developer Tools, Windows 10, Git Bash, Trello, Azure, Advance Rest Client, PostMan, Rest Client"
       }
     ],
     "work_past": [
-
       {
-        "company": "",
-        "title": "Original Jonze: Independent Contractor",
-        "years": "",
+        "company": "Independent Contractor",
+        "title": "Full Stack Developer | Digital Consultant",
+        "years": "2007-2009",
         "description": " Web Development and Project Management, PHP| LAMP | MySQL|HTML | WORDPRESS| JOOMLA"
       },
       {
-        "company": "Entertainment Marketing Group (EMG",
+        "company": "Entertainment Marketing Group (EMG)",
         "title": "Web Project Management ",
-        "description": "strategic web promotion partnerships, managed web promotions and email marketing campaigns, Web Operations:  orchestrated development of Microsites and Web Site Redesign"
+        "years": "",
+        "description": "strategic web promotion partnerships, managed web promotions and email marketing campaigns, Web Operations: Orchestrated development of Microsites and Web Site Redesign"
       },
       {
-        "company": " Sandler Partners ",
+        "company": "Sandler Partners",
         "title": "Channel/Referral Partner [Telecom Networking, Cloud]",
         "years": "2017 To 2018",
-        "description": "• Advisor and Networking Services Subject Matter Expert to SMB, and Enterprise accounts \\n   • Network technology included: IP Networking /Transit, Ethernet, Internet, Data Center Colocation Cloud Services (365, MS Exchange, Security)"
+        "description": "• Advisor and Networking Services Subject Matter Expert to SMB, and Enterprise accounts | Network technology included: IP Networking /Transit, Ethernet, Internet, Data Center Colocation Cloud Services (365, MS Exchange, Security)"
       },
       {
         "company": "Bel Air Internet",
@@ -144,6 +138,12 @@
         "title": "Account Manager [ B2B Fiber, Colo, Ethernet]",
         "years": "2012 To 2013 ",
         "description": ""
+      },
+      {
+        "company": "Cyberdefender.com",
+        "title": "Tech Support | Team Lead | Assistant Manager | Sales Ops Manager",
+        "years": "2009 To 2012 ",
+        "description": "Antivirus Software and Remote Tech Services"
       }
     ],
     "skills": [
@@ -205,7 +205,7 @@
       },
       {
         "name": "CompTIA Network+",
-        "level": ""
+        "level": "80%"
       }
     ]
   },

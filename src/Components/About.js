@@ -28,15 +28,15 @@ class About extends Component {
             <p>{bio}</p>
             <div className="row">
                <div className="columns contact-details">
-                  <h2>Contact Details</h2>
-                  <p className="address">
+                  <h2>Contact Details  <a href="#contact" rel="nofollow" >Contact Details</a>   </h2>
+                  {/* <p className="address">
 						   <span>{name}</span>
 						   <span>{street}<br />
 						         {city}, {state} {zip}
                    </span><br />
 						   <span>{phone}</span>
                      <span>{email}</span>
-					   </p>
+					   </p> */}
                </div>
                <div className="columns download">
                   <p>

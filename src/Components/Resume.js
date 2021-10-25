@@ -32,13 +32,13 @@ class Resume extends Component {
           </div>
         );
       });
-      var work_past = this.props.data.work_past.map(function (work) {
+      var work_past = this.props.data.work_past.map(function (work_past) {
         return (
           <div key={work_past.company}>
             <h3>{work_past.company}</h3>
             <p className="info">
               {work_past.title}
-              <span>&bull;</span> <em className="date">{work_past.years}</em>
+              <span>{work_past.title ? bullet : ""} </span> <em className="date">{work_past.years}</em>
             </p>
             <p>{work_past.description}</p>
           </div>
@@ -85,13 +85,13 @@ class Resume extends Component {
           </div>
           <div className="nine columns main-col">{work}</div>
         </div>
-        <div className="row work">
+        <div className="row work2">
           <div className="three columns header-col">
             <h1>
               <span>Additional Experience</span>
             </h1>
           </div>
-          <div className="nine columns main-col">{work_past}</div>
+          <div className="nine columns main-col2">{work_past}</div>
         </div>
 
         <div className="row skill">
