@@ -43,7 +43,7 @@
     ]
   },
   "resume": {
-    "skillmessage": "Here a snapshot to my education and skills, though tech journey was kickstarted as a child and my father bringing home my first PC",
+    "skillmessage": "",
     "education": [
       {
         "school": "University of Florida",
@@ -113,7 +113,7 @@
         "company": "Entertainment Marketing Group (EMG)",
         "title": "Web Project Management ",
         "years": "",
-        "description": "strategic web promotion partnerships, managed web promotions and email marketing campaigns, Web Operations: Orchestrated development of Microsites and Web Site Redesign"
+        "description": "Strategic web promotion partnerships, managed web promotions and email marketing campaigns, Web Operations: Orchestrated development of Microsites and Web Site Redesign"
       },
       {
         "company": "Sandler Partners",
@@ -153,11 +153,11 @@
       },
       {
         "name": "Photoshop",
-        "level": "50%"
+        "level": "70%"
       },
       {
         "name": "ReactJs",
-        "level": "50%"
+        "level": "70%"
       },
       {
         "name": "CSS",
@@ -231,7 +231,7 @@
       },
       {
         "title": "CoreLogic",
-        "category": "I've worked on this site for 2year",
+        "category": "I've worked on this site for 2 years",
         "image": "corelogic-1.png",
         "url": "corelogic.com"
       },

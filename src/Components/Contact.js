@@ -24,7 +24,7 @@ class Contact extends Component {
     return (
       <section id="contact">
         <div className="row section-head">
-          <div className="two columns header-col">s
+          <div className="two columns header-col">
             <h1 id="contact">
               <span>Get In Touch.</span>
             </h1>
