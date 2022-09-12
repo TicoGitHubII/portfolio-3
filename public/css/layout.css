@@ -18,11 +18,16 @@
 
 ===================================================================== */
 
+/* font variables */
+
 /* ------------------------------------------------------------------ */
 /* a. General Styles
 /* ------------------------------------------------------------------ */
 
-body { background: #0f0f0f; }
+body { background: #0f0f0f; 
+ 
+   overflow-y: scroll;
+   overflow-x: hidden;}
 
 /* ------------------------------------------------------------------ */
 /* b. Header Styles
@@ -191,6 +196,8 @@ ul#nav li.current a { color: #F06000; }
    padding-top: 96px;
    padding-bottom: 66px;
    overflow: hidden;
+   display: grid;
+   place-items: center;
 }
 
 #about a, #about a:visited  { color: #fff; }
@@ -240,6 +247,8 @@ ul#nav li.current a { color: #F06000; }
    padding-top: 90px;
    padding-bottom: 72px;
    overflow: hidden;
+   display: grid;
+   place-items: center;
 
 }
 
@@ -434,6 +443,8 @@ ul#nav li.current a { color: #F06000; }
    background: #ebeeee;
    padding-top: 90px;
    padding-bottom: 60px;
+   display: grid;
+   place-items: center;
 }
 #portfolio h1 {
    font: 15px/24px 'opensans-semibold', sans-serif;
@@ -663,7 +674,8 @@ call-to-action .button {
    background-size: cover !important;
 	-webkit-background-size: cover !important;
    background-attachment: fixed;
-
+   display: grid;
+   place-items: center;
    position: relative;
    min-height: 200px;
    width: 100%;
@@ -945,12 +957,15 @@ call-to-action .button {
 /* ------------------------------------------------------------------ */
 
 footer {
+   display: grid;
+   place-items: center;
    padding-top: 48px;
    margin-bottom: 48px;
    color: #303030;
    font-size: 14px;
    text-align: center;
    position: relative;
+
 }
 
 footer a, footer a:visited { color: #525252; }

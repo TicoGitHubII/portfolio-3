@@ -6,7 +6,24 @@
 
 /* ================================================================== */
 
-
+/* 
+screen width greater than  1024px
+*/
+@media screen and (min-width: 1400px) {
+   .container {
+     width: 1370px;
+   }
+ }
+ @media screen and (min-width: 1600px) {
+   .container {
+     width: 1570px;
+   }
+ }
+ @media screen and (min-width: 1900px) {
+   .container {
+     width: 1870px;
+   }
+ }
 /* screenwidth less than 1024px
 --------------------------------------------------------------------- */
 @media only screen and (max-width: 1024px) {
