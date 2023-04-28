@@ -13,7 +13,7 @@ class About extends Component {
      // var zip = this.props.data.address.zip;
      // var phone= this.props.data.phone;
      // var email = this.props.data.email;
-      var resumeDownload = this.props.data.resumedownload;
+     // var resumeDownload = this.props.data.resumedownload;
     }
 
     return (
@@ -25,24 +25,17 @@ class About extends Component {
          <div className="nine columns main-col">
             <h2>About Me</h2>
 
-            <p>{bio}</p>
+            <p className="about-description">{bio}</p>
             <div className="row">
                <div className="columns contact-details">
                   <h2>    <a href='&#109;ailt&#111;&#58;tic&#111;&#115;%65&#37;6D&#97;%69%6C%40&#112;ro&#37;74&#111;nmail&#46;com' rel="nofollow">  Contact Details</a> </h2>
-                  {/* <p className="address">
-						   <span>{name}</span>
-						   <span>{street}<br />
-						         {city}, {state} {zip}
-                   </span><br />
-						   <span>{phone}</span>
-                     <span>{email}</span>
-					   </p> */}
+        
                </div>
-               <div className="columns download">
+               {/* <div className="columns download">
                   <p>
                      <a href={resumeDownload} className="button"><i className="fa fa-download"></i>Download Resume</a>
                   </p>
-               </div>
+               </div> */}
             </div>
          </div>
       </div>

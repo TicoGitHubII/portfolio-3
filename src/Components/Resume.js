@@ -16,7 +16,7 @@ class Resume extends Component {
               {education.degree ? education.degree :""} 
               <em className="date">{education.graduated}</em>
             </p>
-            <p>{education.description}</p>
+            <p className="work-description">{education.description}</p>
           </div>
         );
       });
@@ -28,7 +28,7 @@ class Resume extends Component {
               {work.title}
                 <span>{work.title ? bullet : ""} </span> <em className="date">{work.years}</em>
             </p>
-            <p>{work.description}</p>
+            <p className="work-description">{work.description}</p>
           </div>
         );
       });
@@ -40,7 +40,19 @@ class Resume extends Component {
               {work_past.title}
               <span>{work_past.title ? bullet : ""} </span> <em className="date">{work_past.years}</em>
             </p>
-            <p>{work_past.description}</p>
+       
+            <p className="work-description">
+              <span>{work_past.description.item1}</span>
+             <br/>
+           
+              <span>{work_past.description.item2}</span>
+           
+              <br/>
+           
+              <span>{work_past.description.item3}</span>
+            </p> 
+    
+       
           </div>
         );
       });

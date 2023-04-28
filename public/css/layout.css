@@ -212,13 +212,20 @@ ul#nav li.current a { color: #F06000; }
    line-height: 30px;
    color: #7A7A7A;
 }
+#about p.about-description {
+   line-height: 30px;
+   font: 14px/22px 'Opensans-regular', serif;
+   color: #7A7A7A;
+}
 #about .profile-pic {
    position: relative;
    width: 120px;
    height: 120px;
    border-radius: 100%;
 }
-#about .contact-details { width: 41.66667%; }
+#about .contact-details {
+   
+   width: 41.66667%; }
 #about .download {
    width: 58.33333%;
    padding-top: 6px;
@@ -290,8 +297,14 @@ ul#nav li.current a { color: #F06000; }
    /* border-bottom: 1px solid #E8E8E8; */
 }
 #resume .info {
-   font: 16px/24px 'librebaskerville-italic', serif;
+   font: 16px/24px 'Opensans-regular', serif;
    color: #6E7881;
+   margin-bottom: 18px;
+   margin-top: 9px;
+}
+#resume .work-description {
+   font: 14px/22px 'Opensans-regular', serif;
+   color: #4b5258;
    margin-bottom: 18px;
    margin-top: 9px;
 }
@@ -516,7 +529,12 @@ ul#nav li.current a { color: #F06000; }
    margin-left: -15px;
    margin-top: -15px;
 }
+.portfolio-item img {
+   
+   border-radius: 5px;
+}
 .portfolio-item .item-wrap img {
+   
    vertical-align: bottom;
 }
 .portfolio-item .portfolio-item-meta { padding: 18px }
